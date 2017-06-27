@@ -1,0 +1,76 @@
+----------------------------------u1--------------------------
+******Results******
+Test combinations already present in dataset: 0
+Test combinations not present (rating guessed): 20000
+Total difference between guessed and actual ratings: 16268.362954671922
+Average difference between guessed and actual ratings: 0.8134181477335961
+
+----------------------------------u2--------------------------
+******Results******
+Test combinations already present in dataset: 0
+Test combinations not present (rating guessed): 20000
+Total difference between guessed and actual ratings: 16044.29759374415
+Average difference between guessed and actual ratings: 0.8022148796872075
+
+----------------------------------u3--------------------------
+******Results******
+Test combinations already present in dataset: 0
+Test combinations not present (rating guessed): 20000
+Total difference between guessed and actual ratings: 15804.326439504492
+Average difference between guessed and actual ratings: 0.7902163219752246
+
+----------------------------------u4--------------------------
+******Results******
+Test combinations already present in dataset: 0
+Test combinations not present (rating guessed): 20000
+Total difference between guessed and actual ratings: 15878.89558348146
+Average difference between guessed and actual ratings: 0.793944779174073
+
+----------------------------------u5--------------------------
+******Results******
+Test combinations already present in dataset: 0
+Test combinations not present (rating guessed): 20000
+Total difference between guessed and actual ratings: 15991.420991016565
+Average difference between guessed and actual ratings: 0.7995710495508283
+
+
+
+
+
+
+----------------------------------u1--------------------------
+******Results******
+Test combinations already present in dataset: 0
+Test combinations not present (rating guessed): 20000
+Total difference between guessed and actual ratings: 15689.0
+Average difference between guessed and actual ratings: 0.78445
+
+----------------------------------u2--------------------------
+
+******Results******
+Test combinations already present in dataset: 0
+Test combinations not present (rating guessed): 20000
+Total difference between guessed and actual ratings: 15490.0
+Average difference between guessed and actual ratings: 0.7745
+
+----------------------------------u3--------------------------
+******Results******
+Test combinations already present in dataset: 0
+Test combinations not present (rating guessed): 20000
+Total difference between guessed and actual ratings: 15271.0
+Average difference between guessed and actual ratings: 0.76355
+
+----------------------------------u4--------------------------
+******Results******
+Test combinations already present in dataset: 0
+Test combinations not present (rating guessed): 20000
+Total difference between guessed and actual ratings: 15364.0
+Average difference between guessed and actual ratings: 0.7682
+
+----------------------------------u5--------------------------
+******Results******
+Test combinations already present in dataset: 0
+Test combinations not present (rating guessed): 20000
+Total difference between guessed and actual ratings: 15474.0
+Average difference between guessed and actual ratings: 0.7737
+
