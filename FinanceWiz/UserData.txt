@@ -1,0 +1,4 @@
+ap|pa|Male|a|p|1
+guest|homestead|Male|guest|homestead|1
+a|p|Male|a|p|11
+akpatnam|Cool|Male|Aravind|Patnam|18
